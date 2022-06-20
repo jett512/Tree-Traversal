@@ -1,8 +1,4 @@
 # Tree-Traversal
-We want to create an autocomplete program, where we can provide a string prefix,
-and output a list of possible words that start with prefix. We do this by designing a
-tree where each value is a character, and traversing through the tree spells out
-words by collecting each character and forming strings as you traverse depth-first.
 
 Part 1 - FindNode
 Our first function in autocomplete.cpp, FindNode, traverses the Tree based on the
